@@ -5,6 +5,8 @@
 
 圖表是以圓餅圖(Pie Chart)和柱狀圖(Histogram)的方式來呈現
 
+
+
 # 購買頻率和銷售額關係圖
 
 ![image](https://github.com/abow79/RFM_Analysis/blob/main/%E8%B3%BC%E8%B2%B7%E9%A0%BB%E7%8E%87%E8%88%87%E9%8A%B7%E5%94%AE%E9%A1%8D%E9%97%9C%E4%BF%82%E5%9C%96.png)
